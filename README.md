@@ -300,8 +300,11 @@ https://t.me/SingularityCore/75
 unzip stuxnina_final_release.zip
 
 cd stuxnina_final_release
+
 chmod +x install_and_deploy.sh
+
 sudo ./install_and_deploy.sh
+
 
 
 
